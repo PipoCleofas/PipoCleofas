@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Rolando Cleofas also known as RCThree, a tech lead and a freelancer 👨‍💻 working remotely since 2022🚀</div>  
   
 
