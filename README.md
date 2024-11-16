@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Rolando Cleofas, a tech lead and a freelancer 👨‍💻 working remotely since 2022🚀</div>  
+### <div align="center">I'm Rolando Cleofas also known as RCThree, a tech lead and a freelancer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on [Nerds Studio]  
+- 🔭 I’m currently working on Nerds Studio 
   
 
 - 🌱 I’m currently learning advanced DSA  
