@@ -1,13 +1,10 @@
 ### <div align="center">I'm Pipo Cleofas also lll known as RCThree, a tech lead and a freelancer 👨‍💻 working remotely since 2022🚀</div>  
   
 
-- 🔭 I’m currently working on Nerds Studio 
-  
+- 🔭 I’m currently working on Appfinity Co.
 
-- 🌱 I’m currently learning advanced DSA  
   
-
-- ❓ Ask me about anything related to MERN stack and frameworks  
+- ❓ Ask me about anything related to AI and programming 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
